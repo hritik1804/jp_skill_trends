@@ -86,7 +86,7 @@ jp_skill_trends/
 
 ## Author
 
-[Your Name](https://github.com/hritik1804)
+[Hritik Ranjan Sharma](https://github.com/hritik1804)
 
 ---
 
