@@ -1,0 +1,17 @@
+{
+  "Programming Languages": [
+    "Python", "パイソン", "Java", "ジャバ", "JavaScript", "ジャバスクリプト", "Go", "Golang", "Ruby", "C++", "C#"
+  ],
+  "Frameworks": [
+    "React", "リアクト", "Vue", "ビュー", "Django", "ジャンゴ", "Rails", "レイルズ"
+  ],
+  "Tools": [
+    "Docker", "ドッカー", "Kubernetes", "クバネティス", "Git", "ギット", "Tableau", "タブロー"
+  ],
+  "Machine Learning": [
+    "TensorFlow", "テンソルフロー", "PyTorch", "パイトーチ", "Scikit-learn", "サイキットラーン"
+  ],
+  "Cloud": [
+    "AWS", "アマゾンウェブサービス", "GCP", "グーグルクラウド", "Azure", "アジュール"
+  ]
+}
